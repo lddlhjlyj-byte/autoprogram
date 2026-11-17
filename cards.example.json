@@ -1,0 +1,21 @@
+{
+  "title": "겨울철 피부 속보습",
+  "voice_speed": 1.0,
+  "scenes": [
+    {
+      "narration": "아무리 보습제를 발라도 피부가 계속 당기시나요?",
+      "caption": "발라도 당기는 피부",
+      "image": "assets/scene_01.png"
+    },
+    {
+      "narration": "피부 표면에만 제품을 여러 겹 바르는 것보다, 세안 후 수분을 공급하고 보습제로 수분 손실을 줄이는 순서가 중요합니다.",
+      "caption": "수분 공급 후 보습막",
+      "image": "assets/scene_02.png"
+    },
+    {
+      "narration": "피부가 민감하다면 각질 제거를 줄이고, 자극이 적은 제품부터 천천히 사용해 보세요.",
+      "caption": "자극은 줄이고 꾸준하게",
+      "image": "assets/scene_03.png"
+    }
+  ]
+}
